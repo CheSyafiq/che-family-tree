@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "chefamilytree"
-  }
+    "default": "chefamilytree",
+    "chefamily": "chefamilytree"
+  },
+  "targets": {},
+  "etags": {}
 }
