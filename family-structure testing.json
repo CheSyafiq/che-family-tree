@@ -1,0 +1,222 @@
+[
+  {
+    "id": "M17",
+    "name": "Zainal Abidin (Pakngah)",
+    "gender": "male",
+    "birth_year": 1958,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M3",
+    "mother_id": "M4",
+    "spouse_ids": ["M18"]
+  },
+  {
+    "id": "M18",
+    "name": "Rosgayah bt Ali",
+    "gender": "female",
+    "birth_year": 1962,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": null,
+    "mother_id": null,
+    "spouse_ids": ["M17"]
+  },
+  {
+    "id": "M19",
+    "name": "Nurul Janatul Ain (Kaklong)",
+    "gender": "female",
+    "birth_year": 1985,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M17",
+    "mother_id": "M18",
+    "spouse_ids": ["M20"]
+  },
+  {
+    "id": "M20",
+    "name": "Mohd Fuad bin Saleh",
+    "gender": "male",
+    "birth_year": 1988,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": null,
+    "mother_id": null,
+    "spouse_ids": ["M19"]
+  },
+  {
+    "id": "M21",
+    "name": "Qaisarah Dhia Khalista",
+    "gender": "female",
+    "birth_year": 2013,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M20",
+    "mother_id": "M19",
+    "spouse_ids": []
+  },
+  {
+    "id": "M22",
+    "name": "Muhammad Dzargon Khalish",
+    "gender": "male",
+    "birth_year": 2016,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M20",
+    "mother_id": "M19",
+    "spouse_ids": []
+  },
+  {
+    "id": "M23",
+    "name": "Muhammad Damian Khaliq",
+    "gender": "male",
+    "birth_year": 2018,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M20",
+    "mother_id": "M19",
+    "spouse_ids": []
+  },
+  {
+    "id": "M24",
+    "name": "Nurul Aisyah Nadiah",
+    "gender": "female",
+    "birth_year": 1988,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M17",
+    "mother_id": "M18",
+    "spouse_ids": ["M25"]
+  },
+  {
+    "id": "M25",
+    "name": "Mohd Firdaus bin Yacob",
+    "gender": "male",
+    "birth_year": 1988,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": null,
+    "mother_id": null,
+    "spouse_ids": ["M24"]
+  },
+  {
+    "id": "M26",
+    "name": "Fitrah Alisa",
+    "gender": "female",
+    "birth_year": 2014,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M25",
+    "mother_id": "M24",
+    "spouse_ids": []
+  },
+  {
+    "id": "M27",
+    "name": "Adi Arsalan",
+    "gender": "male",
+    "birth_year": 2020,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M25",
+    "mother_id": "M24",
+    "spouse_ids": []
+  },
+  {
+    "id": "M28",
+    "name": "Adin Alfahd",
+    "gender": "male",
+    "birth_year": 2024,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M25",
+    "mother_id": "M24",
+    "spouse_ids": []
+  },
+  {
+    "id": "M29",
+    "name": "Nurul Farhah Atikah",
+    "gender": "female",
+    "birth_year": 1990,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M17",
+    "mother_id": "M18",
+    "spouse_ids": ["M30"]
+  },
+  {
+    "id": "M30",
+    "name": "Izzul Izzudin bin Mohd Yatim",
+    "gender": "male",
+    "birth_year": 1990,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": null,
+    "mother_id": null,
+    "spouse_ids": ["M29"]
+  },
+  {
+    "id": "M31",
+    "name": "Dhia Rizqi Azahrah",
+    "gender": "female",
+    "birth_year": 2017,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M30",
+    "mother_id": "M29",
+    "spouse_ids": []
+  },
+  {
+    "id": "M32",
+    "name": "Umar Dzikri",
+    "gender": "male",
+    "birth_year": 2019,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M30",
+    "mother_id": "M29",
+    "spouse_ids": []
+  },
+  {
+    "id": "M33",
+    "name": "Nurul Huda Faqihah",
+    "gender": "female",
+    "birth_year": 1995,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M17",
+    "mother_id": "M18",
+    "spouse_ids": ["M34"]
+  },
+  {
+    "id": "M34",
+    "name": "Che Muhammad Syafiq",
+    "gender": "male",
+    "birth_year": 1995,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": null,
+    "mother_id": null,
+    "spouse_ids": ["M33"]
+  },
+  {
+    "id": "M35",
+    "name": "Ahmad Azri",
+    "gender": "male",
+    "birth_year": 1999,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M17",
+    "mother_id": "M18",
+    "spouse_ids": []
+  },
+  {
+    "id": "M36",
+    "name": "Muhammad Zulfagar",
+    "gender": "male",
+    "birth_year": 2004,
+    "death_year": null,
+    "is_deceased": false,
+    "father_id": "M17",
+    "mother_id": "M18",
+    "spouse_ids": []
+  }
+]
